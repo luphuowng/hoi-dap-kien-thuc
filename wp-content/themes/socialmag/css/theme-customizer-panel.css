@@ -1,0 +1,160 @@
+h3.socialmag-divider-label {
+	text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 100px;
+}
+.customize-control-checkbox label {
+	font-weight: bold;
+}
+#customize-control-socialmag_featured_section_choices span {
+	display: inline-block;
+	margin-left: 0px;
+}
+#customize-control-socialmag_second_slider_image_setting,
+#customize-control-socialmag_third_slider_image_setting {
+	padding-top: 10px;
+}
+#accordion-section-socialmag_themesmatic_upsell_panel .accordion-section-title,
+#accordion-section-socialmag_themesmatic_upsell_panel .accordion-section-title:hover,
+#customize-theme-controls #accordion-section-socialmag_themesmatic_upsell_panel .accordion-section-title:focus {
+    color: #fff;
+    background-color: #2ecc71;
+}
+#customize-theme-controls #accordion-section-socialmag_themesmatic_upsell_panel .accordion-section-title:after {
+	color: #fff;
+}
+#customize-theme-controls #accordion-section-socialmag_themesmatic_upsell_panel .accordion-section-title {
+	border-left: 4px solid #2ecc71;
+}
+#accordion-section-socialmag_themesmatic_upsell_panel .accordion-section-title:hover {
+    color: #fff!important;
+    background-color: #2ecc71 !important;
+    border-left: 4px solid #2ecc71 !important;
+}
+#customize-theme-controls #accordion-section-socialmag_themesmatic_upsell_panel .accordion-section-title:hover:after {
+	color: #fff;
+}
+.socialmag_themesmatic_upsell_panel_content h1,
+.socialmag_themesmatic_upsell_panel_content h2,
+.socialmag_themesmatic_upsell_panel_content h3,
+.socialmag_themesmatic_upsell_panel_content p {
+    color: #333!important
+}
+.socialmag_themesmatic_upsell_panel_content h1 {
+	font-size: 22px;
+	padding: 20px 0;
+}
+#sub-accordion-section-socialmag_sharing_section .customize-control-radio {
+    padding: 0px;
+}
+input[type=radio] {
+    display: none
+}
+.customize-control-radio label {
+    padding: 15px;
+    margin: 5px 0;
+    display: inline-block;
+    font-weight: 700
+}
+.customize-control-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #222;
+}
+.wp-color-result {
+    height: 50px;
+}
+#customize-controls .customize-info .customize-panel-description,
+#customize-controls .no-widget-areas-rendered-notice {
+    font-size: 15px
+}
+.customize-control-radio label {
+	border: 1px solid #fff;
+}
+.customize-control-radio label.active-control {
+	background-color: #fff;
+}
+.socialmag_themesmatic_upsell_panel_content {
+	background: #fff;
+	border-radius: 3px;
+	text-align: center;
+}
+.socialmag_themesmatic_documentation p {
+	text-align: center;
+}
+p.socialmag-themesmatic-intro-offer {
+	max-width: 75%;
+	font-weight: bold;
+	margin: 0 auto;
+	padding: 10px 0;
+}
+ul.socialmag-themesmatic-panel-list {
+	padding: 20px 0 0 15px;
+}
+ul.socialmag-themesmatic-panel-list li {
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
+	align-items: center;
+	font-size: 13px;
+	line-height: 20px;
+	text-align: left;
+	padding: 5px 0;
+}
+ul.socialmag-themesmatic-panel-list li i {
+	padding-right: 10px;
+	font-size: 20px;
+}
+.socialmag_themesmatic_upsell_panel_content h1 {
+	font-weight: bold;
+}
+a.pro-button {
+	color: #fff;
+	background: #2ecc71;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	max-width: 65%;
+	font-size: 15px;
+	text-align: center;
+	padding: 20px 15px;
+	text-decoration: none;
+	border-radius: 35px;
+	margin: 45px auto;
+}
+.socialmag-rating {
+	padding: 20px 0;
+}
+div.socialmag-pro-upgrade p {
+	font-size: 13px;
+	font-weight: 200px;
+}
+.socialmag-pro-upgrade a {
+	color: #fff;
+	font-size: 10px;
+	text-transform: uppercase;
+	text-decoration: none;
+	background: #2ecc71;
+	border-radius: 35px;
+	padding: 10px 20px;
+	display: block;
+	width: max-content;
+}
+/*
+* Customizer Panel Display Fixes for WP 4.9 update
+/*********************************************/
+#customize-control-themesmatic_social_sharing_position .customize-inside-control-row,
+#customize-control-themesmatic_social_sharing_colors .customize-inside-control-row,
+#customize-control-themesmatic_social_sharing_shape .customize-inside-control-row,
+#customize-control-socialmag_grid_choice_setting .customize-inside-control-row,
+#customize-control-socialmag_icons_position .customize-inside-control-row,
+#customize-control-show_on_front .customize-inside-control-row {
+    display: inline;
+    margin-left: 0px;
+}
+input[type="radio"]:checked + label {
+	background: #fff;
+}

@@ -1,0 +1,351 @@
+# Translation of Themes - Yosemite Lite in Vietnamese
+# This file is distributed under the same license as the Themes - Yosemite Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-28 07:10:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Yosemite Lite\n"
+
+#. Theme Name of the theme
+msgid "Yosemite Lite"
+msgstr "Yosemite Lite"
+
+#. Description of the theme
+msgid "Yosemite is a beautiful WordPress blog theme for personal blogs. Yosemite has a modern, clean and elegant look and lots of customization for bloggers. Built on the latest technology of WordPress, Yosemite is lightweight, fast and optimized for all mobile phones."
+msgstr "Yosemite là một chủ đề blog WordPress đẹp cho blog cá nhân. Yosemite có một cái nhìn hiện đại, sạch sẽ và thanh lịch và rất nhiều tùy biến cho các blogger. Được xây dựng trên công nghệ mới nhất của WordPress, Yosemite nhẹ, nhanh và được tối ưu hóa cho tất cả các điện thoại di động."
+
+#: inc/dashboard/sections/tabs.php:12
+msgid "Free vs. PRO"
+msgstr "Miễn phí so với PRO"
+
+#: inc/dashboard/sections/tabs.php:10
+msgid "Getting Started"
+msgstr "Bắt đầu"
+
+#: inc/dashboard/sections/pro.php:94
+msgid "You will benefit of our full support for any issues you have with the theme."
+msgstr "Bạn sẽ được hưởng lợi từ sự hỗ trợ đầy đủ của chúng tôi đối với bất kỳ vấn đề nào bạn có với chủ đề."
+
+#: inc/dashboard/sections/pro.php:93
+msgid "Priority Support"
+msgstr "Hỗ trợ ưu tiên\t"
+
+#: inc/dashboard/sections/pro.php:86
+msgid "Show related posts after posting to recommend previous posts from your blog to the visitors."
+msgstr "Hiển thị các bài đăng có liên quan sau khi đăng để đề xuất các bài đăng trước đó từ blog của bạn cho khách truy cập."
+
+#: inc/dashboard/sections/pro.php:85
+msgid "Related Posts"
+msgstr "Bài viết liên quan"
+
+#: inc/dashboard/sections/pro.php:78
+msgid "Load more posts when to reach to the end of the page. Support auto mode and manual mode."
+msgstr "Tải thêm bài đăng khi đến cuối trang. Hỗ trợ chế độ tự động và chế độ thủ công."
+
+#: inc/dashboard/sections/pro.php:77
+msgid "Infinite Scroll"
+msgstr "Cuộn vô hạn"
+
+#: inc/dashboard/sections/pro.php:70
+msgid "Customize colors of any element on your website."
+msgstr "Tùy chỉnh màu sắc của bất kỳ yếu tố nào trên trang web của bạn."
+
+#: inc/dashboard/sections/pro.php:69
+msgid "Custom Colors"
+msgstr "Màu sắc tùy chỉnh"
+
+#: inc/dashboard/sections/pro.php:62
+msgid "Integrated all Google Fonts with various options to customize for a beautiful typography."
+msgstr "Tích hợp tất cả Phông chữ của Google với các tùy chọn khác nhau để tùy chỉnh cho một kiểu chữ đẹp mắt."
+
+#: inc/dashboard/sections/pro.php:61
+msgid "Custom Google Fonts"
+msgstr "Phông chữ Google tùy chỉnh"
+
+#: inc/dashboard/sections/pro.php:54
+msgid "Showing your Instagram images in the footer or sidebar in an attractive format."
+msgstr "Hiển thị hình ảnh Instagram của bạn ở chân trang hoặc thanh bên ở định dạng hấp dẫn."
+
+#: inc/dashboard/sections/pro.php:53
+msgid "Instagram in Sidebar and Footer"
+msgstr "Instagram trong Sidebar và Footer"
+
+#: inc/dashboard/sections/pro.php:46
+msgid "Save time setting up the theme and get exactly what you see in the demo."
+msgstr "Tiết kiệm thời gian thiết lập chủ đề và nhận được chính xác những gì bạn thấy trong bản demo."
+
+#: inc/dashboard/sections/pro.php:45
+msgid "1-Click Demo Import"
+msgstr "1- Nhấp vào Nhập Bản trình diễn"
+
+#: inc/dashboard/sections/pro.php:38
+msgid "Supports custom logo in WordPress 4.5. Upload your logo has never been easier."
+msgstr "Hỗ trợ biểu tượng tùy chỉnh trong WordPress 4.5. Tải lên  logo của bạn  chưa bao giờ dễ dàng hơn thế."
+
+#: inc/dashboard/sections/pro.php:37
+msgid "Custom Logo"
+msgstr "Biểu trưng tùy chỉnh"
+
+#: inc/dashboard/sections/pro.php:30
+msgid "Show your most important posts in a slider on the front page."
+msgstr "Hiển thị các bài đăng quan trọng nhất của bạn trong thanh trượt trên trang đầu ."
+
+#: inc/dashboard/sections/pro.php:29
+msgid "Featured Content"
+msgstr "Nội dung nổi bật"
+
+#: inc/dashboard/sections/pro.php:22
+msgid "Works in any browsers on desktops, tablets and mobile devices and optimized for speed."
+msgstr "Hoạt động trong mọi trình duyệt trên máy tính để bàn, máy tính bảng và thiết bị di động và được tối ưu hóa cho tốc độ."
+
+#: inc/dashboard/sections/pro.php:21
+msgid "Responsive Design"
+msgstr "Thiết kế đáp ứng"
+
+#: inc/dashboard/sections/pro.php:15
+msgid "PRO"
+msgstr "PRO"
+
+#: inc/dashboard/sections/pro.php:14
+msgid "Lite"
+msgstr "Lite"
+
+#: inc/dashboard/sections/getting-started.php:33
+msgid "Read Documentation"
+msgstr "Đọc tài liệu"
+
+#: inc/dashboard/sections/getting-started.php:31
+msgid "Need any help to setup and configure the theme? Please check our full documentation for detailed information on how to use it."
+msgstr "Bạn cần trợ giúp để thiết lập và định cấu hình chủ đề ? Vui lòng kiểm tra tài liệu đầy đủ của chúng tôi để biết thông tin chi tiết về cách sử dụng nó."
+
+#: inc/dashboard/sections/getting-started.php:30
+msgid "Read Full Documentation"
+msgstr "Đọc tài liệu đầy đủ"
+
+#: inc/dashboard/sections/getting-started.php:27
+msgid "Start Customize"
+msgstr "Bắt đầu tùy chỉnh"
+
+#: inc/dashboard/sections/getting-started.php:25
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Sử dụng WordPress  Customizer,  bạn có thể dễ dàng tùy chỉnh mọi khía cạnh của chủ đề ."
+
+#: inc/dashboard/sections/getting-started.php:24
+msgid "Customize The Theme"
+msgstr "Tùy chỉnh Các Theme"
+
+#: template-parts/content-none.php:40
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể giúp bạn."
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn . Vui lòng thử lại với một số từ khóa khác."
+
+#. translators: go to the post creating page
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sẵn sàng xuất bản  bài đăng đầu tiên của bạn ?<a href=\"%1$s\">hãy bắt đầu từ đây</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không kết quả"
+
+#: template-parts/content-media-first-post.php:53
+msgid "Featured"
+msgstr "Đặc sắc"
+
+#: template-parts/featured-content.php:44
+#: template-parts/content-first-post.php:61
+#: template-parts/featured-content-amp.php:45
+msgid "Continue Reading"
+msgstr "Tiếp tục đọc"
+
+#: template-parts/content-page.php:23 template-parts/content.php:42
+#: template-parts/content-first-post.php:43
+#: template-parts/content-single.php:37
+msgid "Pages:"
+msgstr "Trang :"
+
+#: single.php:23
+msgid "Previous Post &raquo;"
+msgstr "Bài đăng trước & raquo;"
+
+#: single.php:22
+msgid "&laquo; Next Post"
+msgstr "& laquo; Bài tiếp theo"
+
+#: searchform.php:17
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: searchform.php:13
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: searchform.php:12
+msgid "Search for:"
+msgstr "Tìm kiếm:"
+
+#. translators: get the search query
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "Tìm kiếm kết quả cho: %s"
+
+#: inc/widgets/class-yosemite-recent-posts-widget.php:132
+msgid "Number of posts to show:"
+msgstr "Số lượng bài để hiển thị:"
+
+#: inc/widgets/class-yosemite-recent-posts-widget.php:128
+msgid "Title:"
+msgstr "Chức vụ:"
+
+#: inc/widgets/class-yosemite-recent-posts-widget.php:33
+msgid "A widget that displays your recent posts from all categories or a category"
+msgstr "Một Widget hiển thị của bạn bài viết gần đây từ tất cả hạng mục hoặc một loại"
+
+#: inc/widgets/class-yosemite-recent-posts-widget.php:31
+msgid "yosemite: Recent Posts"
+msgstr "yosemite: Bài đăng gần đây"
+
+#: inc/widgets/class-yosemite-recent-posts-widget.php:25
+msgid "Recent Posts"
+msgstr "Bài đăng gần đây"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:35 inc/template-tags.php:103
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: inc/template-tags.php:56
+msgid "Categories"
+msgstr "Thể loại"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:54
+msgid ", "
+msgstr ", "
+
+#. translators: get the title of the post
+#: inc/template-tags.php:40
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Để lại một Thảo luận<span class=\"screen-reader-text\"> trên %s</span>"
+
+#. translators: get the titlte of the post
+#: inc/extras.php:48
+msgid "Continue reading &#10142; %s"
+msgstr "Tiếp tục đọc & # 10142; %s"
+
+#: header.php:62
+msgid "Menu"
+msgstr "Thực đơn"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Chuyển đến nội dung"
+
+#: functions.php:213
+msgctxt "Libre Baskerville font: on or off"
+msgid "on"
+msgstr "trên"
+
+#: functions.php:210
+msgctxt "Josefin Slab font: on or off"
+msgid "on"
+msgstr "trên"
+
+#: functions.php:207
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "trên"
+
+#: functions.php:157
+msgid "Footer"
+msgstr "Chân trang"
+
+#: functions.php:149 functions.php:159
+msgid "Add widgets here."
+msgstr "Thêm tiện ích tại đây."
+
+#: functions.php:147
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: functions.php:64
+msgid "Header"
+msgstr "Tiêu đề"
+
+#: footer.php:41
+msgid "https://gretathemes.com/"
+msgstr "https://gretathemes.com/"
+
+#. translators: %1$s is replaced with 'string', %2$s is replaced with 'string'
+#: footer.php:39
+msgid "Theme: %1$s by"
+msgstr "Chủ đề :%1$s bởi"
+
+#. translators: %s is replaced with 'string'
+#: footer.php:33
+msgid "Proudly powered by %s"
+msgstr "Tự hào được cung cấp bởi %s"
+
+#: footer.php:30
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "Các ý kiến đóng lại."
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr "Nhận xét Mới hơn"
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr "Nhận xét cũ hơn"
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr " Điều hướng nhận xét"
+
+#. translators: number of comments
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s Nhận xét"
+
+#: search.php:43 archive.php:41 index.php:50
+msgid "&laquo; Newer Posts"
+msgstr "& laquo; Bài đăng mới hơn"
+
+#: search.php:42 archive.php:40 index.php:49
+msgid "Older Posts &raquo;"
+msgstr "Bài đăng cũ hơn & raquo;"
+
+#: 404.php:23
+msgid "Back to Home Page"
+msgstr "Back to Home  Trang"
+
+#: 404.php:20
+msgid "OOPS! Page you're looking for doesn't exist. Please use search for help"
+msgstr "OOPS! Trang  bạn đang tìm kiếm không tồn tại. Vui lòng sử dụng tìm kiếm trợ giúp"
+
+#. Author URI of the theme
+msgid "https://gretathemes.com"
+msgstr "https://gretathemes.com"
+
+#. Author of the theme
+#: inc/dashboard/sections/welcome.php:26
+msgid "GretaThemes"
+msgstr "GretaThemes"
+
+#. Theme URI of the theme
+msgid "https://gretathemes.com/wordpress-themes/yosemite/"
+msgstr "https://gretathemes.com/wordpress-themes/yosemite/"
